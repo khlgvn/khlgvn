@@ -1,7 +1,9 @@
 
 
 <div align="center">
-  
+
+ ![Profile Banner](/assets/banner%20profile.gif) 
+
 # Hey, I'm Kai
 
 <p align="center">
@@ -12,5 +14,5 @@
   <a href="https://discord.com/channels/@me">👾 Discord</a>
 </p>
 
-![Alt text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW16OWpxenZ6Nmc0aDlkcWpkd3hpNzFvcDhtN2Z6c2tianliZjdpMSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/xUA7aNDWnBLyTpbCW4/giphy.gif) 
+
 </div>
