@@ -59,10 +59,6 @@ React | Figma | Canva | Tailwind | Lucidchart | Draw.io | VS Code
 - Supports basic arithmetic operations  
 - Focused on clean UI and responsive design  
 
-### 🎬 Red Carpet (Previous Project)
-- Wedding Planning & Vendor Marketplace App  
-- Features: Gig Feed System, Vendor Marketplace, Smart Task Planner  
-
 ### 🌾 AgriKultivate (Previous Project)
 - Localized E-Commerce Platform for agricultural trade  
 - Helps farmers sell surplus crops efficiently  
