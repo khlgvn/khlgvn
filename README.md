@@ -25,6 +25,9 @@
 
 ---
 
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=129gbi3w9jwcq0jd52jsdgzt1&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 ## 💡 About Me
 
 I am a technology enthusiast with a strong foundation in **web development, system design, and project management**.  
