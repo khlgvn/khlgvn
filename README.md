@@ -1,56 +1,64 @@
-
-
-<div align="center">
-
-<img src="/assets/banner profile.gif" alt="Description of image" width="1000" height="500">
+<img width="1834" height="938" alt="github profile" src="https://github.com/user-attachments/assets/1116154f-38d1-44df-919f-8127a9f85efd" />
 
 
 
-# Hey, I'm Kai
 
-</p>
-</div>
 
-<p align="center">
-  <a href="https://https://www.facebook.com/khlgvn" target="_blank">📱 Facebook</a> |
-  <a href="https://https://www.instagram.com/khlgvn" target="_blank">📸 Instagram</a> |
-  <a href="https://https://www.linkedin.com/in/mykikhailagavino/" target="_blank">💼 LinkedIn</a> |
-  <a href="https://open.spotify.com/user/129gbi3w9jwcq0jd52jsdgzt1?si=d9e562b04f934ce7">🎵 Spotify</a> |
-  <a href="https://discord.com/channels/@me">👾 Discord</a>
-</p>
 
-# 👋 Hi, I'm Myki Khaila Gavino
+# Myki Khaila Gavino
 
-🎓 4th Year BS Information Systems Student  
-💻 Aspiring Full-Stack Developer & Project Manager  
-🌱 Passionate about building interactive systems and clean UI designs  
+**4th Year BS Information Systems Student**  
+Aspiring Full-Stack Developer and Project Manager  
+Passionate about building interactive systems with intuitive user interfaces  
 
 ---
 
-## 💡 About Me
+## About Me
 
-I am a technology enthusiast with a strong foundation in **web development, system design, and project management**.  
-I enjoy transforming ideas into functional projects that are both **user-friendly and efficient**.  
+I am a technology enthusiast with expertise in **web development, system design, and project management**.  
+I enjoy transforming ideas into functional projects that are **efficient, scalable, and user-friendly**.  
 
-Currently working on:
-
-- 🔢 **Personal Simple Calculator** – A lightweight project using HTML, CSS, and JavaScript  
-- 💼 Managing small team projects and exploring full-stack development opportunities  
+**Current focus:**
+- Developing a **personal calculator project** using HTML, CSS, and JavaScript  
+- Managing small team projects while exploring opportunities in full-stack development  
 
 ---
 
-## 🛠️ My Skills
+## Skills
 
-### 💻 Programming Languages
+### Programming Languages
 HTML | CSS | JavaScript | PHP | SQL | MySQL | Java  
 
-### ⚛️ Frontend & Tools
-React | Figma | Canva | Tailwind | Lucidchart | Draw.io | VS Code  
+### Frontend & Design Tools
+React | React Native | Figma | Tailwind | Canva | Lucidchart | Draw.io | VS Code  
 
-### 📊 Project Management
-- Task Planning  
-- Workflow Optimization  
-- Team Coordination
+### Technical & Project Management Tools
+- Git & GitHub  
+- MS Word, Excel / Google Sheets  
+- Project management tools  
+- Business Intelligence tools: Power BI, Looker Studio  
+
+### Project Management
+- Task Planning and Workflow Optimization  
+- Team Coordination and Collaboration  
+
+---
+
+## Education
+
+**Mindanao State University – Iligan Institute of Technology (MSU-IIT), Iligan City, PH**  
+Bachelor of Science in Information Systems | 2022 – 2026  
+College of Computer Studies  
+
+**Specialized Technical Skills:**  
+UI/UX Design (Figma), Git & GitHub, VS Code, Project Management Tools, Business Intelligence Tools  
+
+---
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/mykikhailagavino/)  
+- [Discord](https://discord.com/@khlgvn)  
   
 ## Tech Stack
 <p align="center">
@@ -88,12 +96,17 @@ React | Figma | Canva | Tailwind | Lucidchart | Draw.io | VS Code
   <a href="https://discord.com/users/yourprofile" target="_blank">💬 Discord</a>
 </p>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/mykikhailagavino/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
+  </a
+  <a href="https://discord.com/@khlgvn" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="Discord" />
+  </a>
+</div>
+
+
+
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Coding Banner" width="100%"/>
-</p>
-
-<p align="center">
-  Made with ❤️ by Myki Khaila Gavino
 
