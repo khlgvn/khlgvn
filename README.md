@@ -4,6 +4,8 @@
 
 <img src="/assets/banner profile.gif" alt="Description of image" width="1000" height="500">
 
+
+
 # Hey, I'm Kai
 
 </p>
@@ -24,9 +26,6 @@
 🌱 Passionate about building interactive systems and clean UI designs  
 
 ---
-
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=129gbi3w9jwcq0jd52jsdgzt1&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## 💡 About Me
 
@@ -51,9 +50,18 @@ React | Figma | Canva | Tailwind | Lucidchart | Draw.io | VS Code
 ### 📊 Project Management
 - Task Planning  
 - Workflow Optimization  
-- Team Coordination  
+- Team Coordination
+  
+## Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,wordpress,html,css,javascript,react,mysql" />
+  </a>
+</p>
 
----
+## 📈 Contribution Activity
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=khlgvn&theme=react-dark&hide_border=true&area=true)
 
 ## 📌 Projects
 
@@ -67,6 +75,8 @@ React | Figma | Canva | Tailwind | Lucidchart | Draw.io | VS Code
 - Helps farmers sell surplus crops efficiently  
 
 ---
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=129gbi3w9jwcq0jd52jsdgzt1&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## 📫 Connect With Me
 
