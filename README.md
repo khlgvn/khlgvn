@@ -2,18 +2,13 @@
 
 ## Hi, I'm Myki Khaila Gavino
 
-UI/UX Designer & Frontend Developer
+I'm a **BS Information Systems student** focused on **UI/UX design and frontend development**, building clean, user-friendly, and functional digital experiences. I enjoy turning ideas into real applications and continuously improving both my design and development skills.
 
+- 🎨 Design intuitive and modern user interfaces  
+- ⚙️ Develop responsive mobile/web applications  
+- 🔍 Apply user-centered design principles in projects  
+- 🤝 Collaborate with teams to improve system usability and performance  
 
-## About Me
-
-I enjoy transforming ideas into functional projects that are **efficient, scalable, and user-friendly**.  
-
-**Current focus:**
-- Managing small team projects while exploring opportunities in full-stack development  
-
----
-  
   
 ## Tech Stack
 <p align="center">
@@ -47,6 +42,7 @@ I enjoy transforming ideas into functional projects that are **efficient, scalab
 
 ###
 
+
 ## Connect With Me
 
 <div align="center">
@@ -66,5 +62,8 @@ I enjoy transforming ideas into functional projects that are **efficient, scalab
 
 ###
 
+--- 
+<div align="center">
 
+⭐ *“Learning, building, and improving — one project at a time.”*
 
