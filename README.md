@@ -31,16 +31,18 @@ I'm a **BS Information Systems student** focused on **UI/UX design and frontend 
 
 ## Projects
 
-
+## Vibing To
+<div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=129gbi3w9jwcq0jd52jsdgzt1&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
 
 
 <div align="center">
   <img src="https://count.getloli.com/@:khlgvn?theme=minecraft&padding=4&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
-###
 
 
 ## Connect With Me
